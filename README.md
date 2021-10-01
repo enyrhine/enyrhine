@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Elsa
+- 👀 I’m interested in frontend!
+- 🌱 And allways learning new things.
